@@ -1,0 +1,15 @@
+.page1{
+    min-width: 100vw;
+    min-height: 100vh;
+    background: pink;
+}
+.page2{
+    min-width: 100vw;
+    min-height: 100vh;
+    background: lightblue;
+}
+.page3{
+    min-width: 100vw;
+    min-height: 100vh;
+    background: lightseagreen;
+}
