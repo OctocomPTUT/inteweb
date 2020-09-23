@@ -23,5 +23,6 @@ p{
     background:yellow;
 }
 input{
+    padding-top:auto;
     justify-content: center;
 }
