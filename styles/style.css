@@ -13,3 +13,7 @@
     min-height: 100vh;
     background: lightseagreen;
 }
+body{
+    margin:0px;
+    padding:0px;
+}
